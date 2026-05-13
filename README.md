@@ -3,7 +3,7 @@
 Azure üzerinde deploy edilmiş bir MCP (Model Context Protocol) serverı kullanarak mevzuat hakkında bilgi sağlayan basit bir chatbot sistemi.
 
 ## Deployment Detayları
-- **MCP Server URL:** mevzuat-mcp-elif.bxdcceascchqhufh.westeurope.azurecontainer.io
+- **MCP Server URL:** mevzuat-mcp-elif.bxdcceascchqhufh.westeurope.azurecontainer.io:8000
 - **Resource Group:** case-study-elif-candan
 
 ## Setup ve Çalıştırma
